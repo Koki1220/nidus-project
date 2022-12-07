@@ -1,0 +1,84 @@
+.container{
+    background-color: #FFF;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border: 1px solid  #c4c0c0;
+    position: fixed;
+    
+}
+.nav-left img{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    cursor: pointer;
+    
+
+}
+span{
+    margin-left: 2rem;
+
+}
+
+.middle{
+    margin-left: 4rem;
+}
+.nav-right{
+
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+    margin-right: 7rem;
+    gap: 2px;
+    
+    
+}
+.notify img{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 47rem;
+    background-color: #f3ece3;
+    cursor: pointer;
+}
+.profile img{
+    border-radius: 10px 10px 10px 10px;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+    margin-top: 2px;
+    margin-left: 1rem;
+    
+
+}
+.nav-right small{
+    display: inline-block;
+    margin-left: 1rem;
+
+}
+.nav-right h4 {
+    margin-left: 1rem;
+
+}
+.btn-drop-down{
+    background-color: #FFF;
+    padding: 0px 3px 10px 5px;
+    border: 0;
+    font-weight: small;
+    cursor: pointer;
+    margin-left: 0.1rem;
+}
+
+.import-btn{
+    width: 150px;
+    height: 40px;
+    color: #FFF;
+    border-radius: 20px;
+    border: 0;
+    margin-left: 70rem;
+    margin-top: 5rem;
+    cursor: pointer;
+    background-color: #ce882c;
+}
